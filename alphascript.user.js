@@ -8,7 +8,7 @@
 // @inject-into page
 // @version     0.0.1
 // @author      narakomii
-// @description beta.diep.io theme file picker - "theme" button in the bottom left
+// @description beta.diep.io theme file picker and "input" object exposer ("theme" button in the bottom left)
 // ==/UserScript==
 
 "use strict";
