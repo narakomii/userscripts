@@ -11,3 +11,6 @@ my personal theme for diep.io and diepcustom, with some utility keybinds
 
 - **thetascript.user.js**:
 non-qwerty keyboard layout fixer for diepcustom
+
+- **florascript.user.js**:
+non-qwerty keyboard layout fixer for florr.io
